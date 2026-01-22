@@ -35,3 +35,6 @@ Aplicação do SQL em análises de negócio
 Organização de dados para visualização
 
 Escrita de queries eficientes e bem estruturadas
+
+Aqui esta um dashboard criado a partir dos dados adiquirido pelas atividades realizadas
+<img width="1653" height="640" alt="image" src="https://github.com/user-attachments/assets/5148e255-23c7-4f54-a8b8-b2050a597bdc" />
